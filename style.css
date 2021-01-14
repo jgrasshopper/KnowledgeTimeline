@@ -153,9 +153,9 @@ h1 {
 /* Media Queries | Smartphones */
 @media (max-width: 600px) {
   h1 {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
-  
+
   /* This is to transfer the line at the left side of the page */
   #timeline ul li {
     margin-left: 20px;
